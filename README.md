@@ -67,7 +67,7 @@ Learn how to calculate:
 
 ## Download the PDF Version
 
-A downloadable PDF version of the checklist is also available in this repository.
+[Download the Real Estate Lead Leakage Checklist PDF](real-estate-lead-leakage-checklist.pdf)
 
 ## About Touchstone Infotech
 
