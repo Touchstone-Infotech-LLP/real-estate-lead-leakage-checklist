@@ -1,3 +1,10 @@
 title: Real Estate Lead Leakage Checklist
-description: A free 35-point self-assessment for real estate agencies and channel partners to identify lead leakage from enquiry to site visit and booking.
+description: Free 35-point self-assessment for real estate agencies and channel partners to identify lead leakage from enquiry to site visit and booking.
 theme: jekyll-theme-cayman
+
+author:
+  name: Touchstone Infotech LLP
+  url: https://www.touchstoneinfotech.com/
+
+url: https://touchstone-infotech-llp.github.io
+baseurl: /real-estate-lead-leakage-checklist
