@@ -140,6 +140,8 @@ instead of evaluating marketing performance only through lead volume or cost per
 
 Touchstone Infotech's **Real Estate Revenue Operating System (RROS)** is designed for real estate agencies and channel partners that want greater visibility and accountability across their lead-to-revenue journey.
 
+RROS connects marketing, CRM, lead qualification, follow-up, site visits and reporting into one measurable system.
+
 It can connect areas such as:
 
 - Google and Meta advertising
